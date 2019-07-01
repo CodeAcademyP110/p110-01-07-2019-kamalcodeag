@@ -1,0 +1,26 @@
+﻿@{
+    string[] names = new string[]
+    {
+        "Samir",
+        "Medis",
+        "Shems",
+        "Kamuran",
+        "Aqil",
+        "Elcin",
+        "Kamil"
+    };
+}
+
+<main>
+    <div class="container">
+        <h3>Salam, P110 - About</h3>
+        <ul class="list-group">
+            @foreach (var item in names)
+            {
+                <li class="list-group-item">@item</li>
+            }
+        </ul>
+    </div>
+</main>
+
+   

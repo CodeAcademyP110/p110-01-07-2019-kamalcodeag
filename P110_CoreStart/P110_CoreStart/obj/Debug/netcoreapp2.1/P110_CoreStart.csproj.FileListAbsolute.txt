@@ -1,0 +1,54 @@
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.deps.json
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.runtimeconfig.json
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.runtimeconfig.dev.json
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.dll
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.pdb
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.csprojAssemblyReference.cache
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.csproj.CoreCompileInputs.cache
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.RazorAssemblyInfo.cache
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.RazorAssemblyInfo.cs
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.AssemblyInfoInputs.cache
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.AssemblyInfo.cs
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.RazorTargetAssemblyInfo.cache
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.dll
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.pdb
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.Views.dll
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.Views.pdb
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.TagHelpers.input.cache
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.TagHelpers.output.cache
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.RazorCoreGenerate.cache
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.RazorTargetAssemblyInfo.cs
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.Views.pdb
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.csproj.CopyComplete
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\samird\source\repos\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.deps.json
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.runtimeconfig.json
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.runtimeconfig.dev.json
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.dll
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.pdb
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.Views.dll
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\bin\Debug\netcoreapp2.1\P110_CoreStart.Views.pdb
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.csprojAssemblyReference.cache
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.csproj.CoreCompileInputs.cache
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.RazorAssemblyInfo.cache
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.RazorAssemblyInfo.cs
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.AssemblyInfoInputs.cache
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.AssemblyInfo.cs
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.TagHelpers.input.cache
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.TagHelpers.output.cache
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.RazorCoreGenerate.cache
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.RazorTargetAssemblyInfo.cache
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.RazorTargetAssemblyInfo.cs
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.Views.pdb
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.dll
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.pdb
+D:\Programming\Other\ASP.NET\01.07.2019(MVC Core Start)\P110_CoreStart\P110_CoreStart\obj\Debug\netcoreapp2.1\P110_CoreStart.csproj.CopyComplete

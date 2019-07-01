@@ -1,0 +1,30 @@
+﻿@{
+    //enum colors { red, black, green}; //???
+
+    List<string> texts = new List<string>() { "a", "b", "c" };
+
+    //List<string> colors = new List<string>() { "red", "black", "green" };
+
+}
+
+
+    @*<main>
+        @foreach (var item in texts)
+        {
+            foreach (var c in colors)
+            {
+                <p style="color:c;">@item</p>;
+            }
+        }
+    </main>*@ 
+
+
+    <main>
+        @foreach (var item in texts)
+        {
+           <p style="background-color:gold;">@item</p>;
+        }
+    </main>
+
+
+
